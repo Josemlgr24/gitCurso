@@ -17,7 +17,7 @@ Algoritmo minicalculadora
          num_res = num_a - num_b
          Escribir "La resta de ", num_a," y de ", num_b," es de ",num_res
       sino
-         Escribir "Esa operaciÃ³n no esta permitida"
+         Escribir "Esa operación no esta permitida"
      finsi
  finsi
 FinAlgoritmo
